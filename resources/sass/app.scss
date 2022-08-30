@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import '../webfonts/fa-brands-400.ttf';
+@import '../webfonts/fa-brands-400.woff2';
+@import '../webfonts/fa-regular-400.ttf';
+@import '../webfonts/fa-regular-400.woff2';
+@import '../webfonts/fa-solid-900.ttf';
+@import '../webfonts/fa-solid-900.woff2';
+@import '../webfonts/fa-v4compatibility.ttf';
+@import '../webfonts/fa-v4compatibility.woff2';
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// custom css
+@import '../css/all.min.css';
+@import '../css/bootstrap.min.css';
+@import '../css/style.css';
